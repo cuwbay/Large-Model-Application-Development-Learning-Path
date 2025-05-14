@@ -51,11 +51,9 @@ This repository is organized into modules, designed to be followed sequentially,
 1. **Clone the repository:**
    
    ```bash
-   git clone https://github.com/your-username/Large-Model-Application-Development-Learning-Path.git
+   git clone https://github.com/cuwbay/Large-Model-Application-Development-Learning-Path.git
    cd Large-Model-Application-Development-Learning-Path
    ```
-   
-   *(Replace `your-username` with your actual GitHub username)*
 
 2. **Set up your environment:**
    
@@ -179,8 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * 提交 issue 来报告错误、提出改进建议或进行提问。
 * 提交 pull request 并附带你建议的更改 (对于重大更改，请先提交 issue 进行讨论)。
-
-
 
 ## 📜 开源许可
 
